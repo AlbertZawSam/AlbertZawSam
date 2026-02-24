@@ -3,7 +3,6 @@
 🚀 AI Engineering Enthusiast  
 💻 Computer Science Student 
 ---
-
 ## About Me
 
 I am deeply passionate about Artificial Intelligence, Machine Learning, and building intelligent systems that solve real-world problems.
@@ -12,9 +11,7 @@ I enjoy working at the intersection of:
 - ⚙️ Algorithms  
 - 📈 Data  
 - 💻 Software Engineering  
-
 ---
-
 ## Current Focus
 
 - 🤖 Machine Learning Fundamentals   
@@ -22,7 +19,6 @@ I enjoy working at the intersection of:
 - 📊 Data Structures & Algorithms  
 
 ---
-
 ##  Projects I'm Interested In
 
 - Machine Learning Models  
@@ -32,9 +28,6 @@ I enjoy working at the intersection of:
 - Automation & Intelligent Systems  
 
 ---
-
----
-
 ## Engineering Mindset
 
 ```python
@@ -44,9 +37,7 @@ while True:
     optimize()
     repeat()
 ```
-
 ---
-
 ## Reach me on
 
 - GitHub: https://github.com/AlbertZawSam 
