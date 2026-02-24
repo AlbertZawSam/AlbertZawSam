@@ -1,8 +1,7 @@
-# 🤖 Hi, I'm Albert Zaw Sam
+# 🤖 Hi, I'm Albert 
 
 🚀 AI Engineering Enthusiast  
 💻 Computer Science Student  
-
 ---
 
 ## 🧠 About Me
@@ -19,17 +18,13 @@ I enjoy working at the intersection of:
 
 ## 🔬 Current Focus
 
-- 🤖 Machine Learning Fundamentals  
-- 🧮 Linear Algebra & Probability for AI  
-- 🐍 Python for Data Science  
+- 🤖 Machine Learning Fundamentals   
 - 🧠 Deep Learning & Neural Networks  
 - 📊 Data Structures & Algorithms  
 
 ---
 
-
-
-## 🧩 Projects I'm Interested In
+##  Projects I'm Interested In
 
 - Machine Learning Models  
 - AI-powered Applications  
@@ -38,13 +33,6 @@ I enjoy working at the intersection of:
 - Automation & Intelligent Systems  
 
 ---
-
-## 🎯 Long-Term Vision
-
-- 🏗️ Build production-level AI systems  
-- 📚 Contribute to AI research  
-- 🌍 Develop AI solutions that create meaningful impact  
-- 🔓 Contribute to open-source AI projects  
 
 ---
 
