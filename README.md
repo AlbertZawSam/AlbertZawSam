@@ -9,7 +9,6 @@
 I am deeply passionate about Artificial Intelligence, Machine Learning, and building intelligent systems that solve real-world problems.
 
 I enjoy working at the intersection of:
-- 📊 Mathematics  
 - ⚙️ Algorithms  
 - 📈 Data  
 - 💻 Software Engineering  
