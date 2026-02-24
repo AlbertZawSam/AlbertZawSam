@@ -39,8 +39,5 @@ while True:
 ```
 ---
 ## Reach me on
-
-- GitHub: https://github.com/AlbertZawSam 
 - Email: albertzawsam@gmail.com 
-
 ---
