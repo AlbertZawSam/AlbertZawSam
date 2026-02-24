@@ -1,10 +1,10 @@
 # 🤖 Hi, I'm Albert 
 
 🚀 AI Engineering Enthusiast  
-💻 Computer Science Student  
+💻 Computer Science Student 
 ---
 
-## 🧠 About Me
+## About Me
 
 I am deeply passionate about Artificial Intelligence, Machine Learning, and building intelligent systems that solve real-world problems.
 
@@ -15,7 +15,7 @@ I enjoy working at the intersection of:
 
 ---
 
-## 🔬 Current Focus
+## Current Focus
 
 - 🤖 Machine Learning Fundamentals   
 - 🧠 Deep Learning & Neural Networks  
@@ -35,7 +35,7 @@ I enjoy working at the intersection of:
 
 ---
 
-## 📈 Engineering Mindset
+## Engineering Mindset
 
 ```python
 while True:
@@ -47,7 +47,7 @@ while True:
 
 ---
 
-## 📫 Connect With Me
+## Reach me on
 
 - GitHub: https://github.com/AlbertZawSam 
 - Email: albertzawsam@gmail.com 
