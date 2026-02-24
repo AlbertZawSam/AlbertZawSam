@@ -1,6 +1,6 @@
 # Albert Zaw Sam
 
-AI Engineer | Machine Learning & Deep Learning Systems 
+AI Engineering | Machine Learning & Deep Learning Systems 
 
 ## Profile
 
@@ -14,14 +14,7 @@ Strong interest in model optimization, system reliability, and bridging research
 - Data Pipelines
 - Algorithm Design
 - Performance Optimization
-- System-Level Thinking
-
-## Engineering Approach
-
-- Prioritize fundamentals over trends  
-- Build reproducible and maintainable systems  
-- Measure, benchmark, optimize  
-- Simplicity over complexity   
+- System-Level Thinking  
 
 ## Contact
 
