@@ -1,43 +1,28 @@
-# 🤖 Hi, I'm Albert 
+# Albert Zaw Sam
 
-🚀 AI Engineering Enthusiast  
-💻 Computer Science Student 
----
-## About Me
+AI Engineer | Machine Learning & Deep Learning Systems 
 
-I am deeply passionate about Artificial Intelligence, Machine Learning, and building intelligent systems that solve real-world problems.
+## Profile
 
-I enjoy working at the intersection of:
-- ⚙️ Algorithms  
-- 📈 Data  
-- 💻 Software Engineering  
----
-## Current Focus
+Focus on designing, building, and deploying scalable machine learning systems.  
+Strong interest in model optimization, system reliability, and bridging research with production.
 
-- 🤖 Machine Learning Fundamentals   
-- 🧠 Deep Learning & Neural Networks  
-- 📊 Data Structures & Algorithms  
+## Interests
 
----
-##  Projects I'm Interested In
+- Machine Learning & Deep Learning
+- Model Training and Evaluation
+- Data Pipelines
+- Algorithm Design
+- Performance Optimization
+- System-Level Thinking
 
-- Machine Learning Models  
-- AI-powered Applications  
-- Data Analysis & Visualization  
-- Neural Network Implementations  
-- Automation & Intelligent Systems  
+## Engineering Approach
 
----
-## Engineering Mindset
+- Prioritize fundamentals over trends  
+- Build reproducible and maintainable systems  
+- Measure, benchmark, optimize  
+- Simplicity over complexity   
 
-```python
-while True:
-    learn()
-    build()
-    optimize()
-    repeat()
-```
----
-## Reach me on
-- Email: albertzawsam@gmail.com 
----
+## Contact
+
+Email: albertzawsam@gmail.com
